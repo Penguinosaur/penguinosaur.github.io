@@ -1,0 +1,33 @@
+html {
+	background: #E2E2E2;
+	font-family: Quicksand, sans-serif;
+	font-size: 18px;
+}
+body {
+	margin: 0;
+}
+div {
+	padding: 0 64px 0 64px;
+}
+div.topbar {
+	padding-top: 12px;
+	padding-bottom: 12px;
+	background: #853385;
+	color: white;
+	font-weight: 300;
+	height: 110px;
+	box-sizing: border-box;
+}
+h1 {
+	float: left;
+	width: auto;
+}
+#penguinicon {
+	margin-right: 24px;
+	float: left;
+	height: 84px;
+	width: 84px;
+}
+span {
+	float: right;
+}
